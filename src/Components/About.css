@@ -1,0 +1,32 @@
+.about_container{
+    min-height:85vh;
+}
+
+.main_container .right_container img{
+    width: 430px;
+    height: 500px;
+}
+@media (max-width:449px) {
+    .main_container .right_container img{
+        max-width: 300px;
+        height: 400px;
+    }
+}
+p{
+    padding-top: 40px;
+
+}
+ .left_container{
+    padding-top: 50px;
+    
+}
+img{
+    height: 700px;
+    border-radius: 30px;
+    width:350px;
+}
+.right_container{
+    margin-top: 20px;
+    margin-left: 300px;
+    
+}

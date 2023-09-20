@@ -7,9 +7,7 @@ const Home = () => {
             <div className='home_innerdiv'>
                 <div className='left_div'>
                     <h2>Welcome to <span className='text'>Dhruv Kurliye!</span></h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus cumque alias iusto ut cupiditate
-                        molestiae in quisquam, corporis, sequi obcaecati voluptatem fugit. Ex harum ratione, eaque asperiores
-                        fugit consequatur natus.</p> <hr />
+                    <p>Welcome to my Portfolio, I am a computer Engineering Student from Bharati Vidyapeeth's College of Engineering, Pune. Here you will find my work i.e projects & skills. You can also checkout my Resume down below  👇  </p> <hr />
                     <div> <Button variant="secondary" className='Button'>Projects</Button>{' '}
                         <Button variant="dark" className='Button'>Resume</Button></div>
                 </div>

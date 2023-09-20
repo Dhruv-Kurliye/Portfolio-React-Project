@@ -23,6 +23,7 @@ const Header = () => {
         <div>
             <Navbar className="opacity-100" bg="dark" data-bs-theme="dark">
                 <Container>
+                    
                     <h2><Navbar.Brand href="#home" style={Header}>Dhruv Kurliye</Navbar.Brand></h2>
                     <Nav className="mt-2 ">
                         <div>

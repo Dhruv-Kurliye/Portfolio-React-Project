@@ -10,6 +10,7 @@
 }
 
 .pic{
+    margin-top: 10px;
     margin: 40px;
     margin-right: 175px;
 }
@@ -28,12 +29,10 @@
     
 }
 
-.home_container .home_innerdiv .right_div{
-    margin-top: 70px
-}
 
 .home_container .home_innerdiv .right_div img{
-    width: 480px 
+    width: 480px;
+    height:500px;
 }
 
 
